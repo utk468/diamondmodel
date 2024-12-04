@@ -1,0 +1,2 @@
+
+To modify your code to use negative root mean squared error (neg_root_mean_squared_error) for evaluating classification models, you need to understand that RMSE is generally used for regression tasks, not classification tasks. However, you can still compute RMSE for the classification model, but this would require treating the output as continuous predictions and computing the error accordingly.
